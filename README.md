@@ -123,8 +123,8 @@ Each project reflects my focus on learning by building and improving through ite
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/harshit-nakrani-262317322](https://www.linkedin.com/in/kashyapsinh-chauhan-a90314393/) 
-- 🧑‍💻 GitHub: [https://github.com/Harshitnakrani](https://github.com/kashyapshinh305-debug)
+- 💼 LinkedIn: (https://www.linkedin.com/in/kashyapsinh-chauhan-a90314393/)
+- 🧑‍💻 GitHub: (https://github.com/kashyapshinh305-debug)
 - 📧 Email: Kashyapshinh305@gmail.com  
 
 ---
